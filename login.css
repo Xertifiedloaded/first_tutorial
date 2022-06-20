@@ -1,0 +1,94 @@
+body {
+    background: #3fbce7 linear-gradient(180deg, #3fbce7, #7194e7);
+}
+
+.form {
+    border: 2px white solid;
+    border-radius: 20px;
+    background: white;
+    height: 97vh;
+    width: 60vw;
+    display: grid;
+    justify-content: center;
+    grid: 1;
+    margin-left: 20%;
+}
+
+#log {
+    font-weight: 200;
+    margin-top: 50px;
+    font-size: 25px;
+    justify-content: center;
+    display:flex;
+
+}
+
+#fb {
+    height: 40px;
+    font-size: 20px;
+    background-color: rgb(32, 24, 214);
+    color: white;
+    padding-left: 30px;
+    width: 100%;
+}
+
+#contd/ {
+    height: 40px;
+    font-size: 20px;
+    background-color: #7194e7;
+    color: white;
+    padding-left: 30px;
+    width: 100%;
+    margin-top: 5px;
+
+}
+
+#hr1 {
+    width: 5px;
+
+}
+
+#em{
+width: 20em;
+height: 30px;
+font-size: 15px;
+margin-bottom: 10px;
+}
+#pw{
+
+    width: 20em;
+    height: 30px;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+#lg{
+width:100%;
+background-color: #7194e7;
+height:40px ;
+color: #fff;
+font-size: 20px;
+text-transform: uppercase;
+border-radius: 5px 5px;
+
+border-bottom-style: solid 7px black;
+}
+#fp{
+text-decoration: none;
+text-transform: capitalize;
+color: #3fbce7;
+}
+#slg{
+color: #000;
+background-color: darkgrey;
+width:100%;
+height: 40px;
+color: #fff;
+font-size: 20px;
+text-transform: uppercase;
+border-radius: 5px 5px;
+}
+
+#footer{
+
+}
